@@ -12,6 +12,10 @@ The purpose of this analysis was to assist Alphabet Soup, a philanthropic organi
 
 * What variable(s) are considered the target(s) for your model?
 
+The variable that I considered the target for my model was the "IS_SUCCESSFUL" column as it measures the accuracy of the model.
+
+![target_array.png](target_array.png)
+
 * What variable(s) are considered to be the features for your model?
 
 * What variable(s) are neither targets nor features, and should be removed from the input data?
